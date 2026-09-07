@@ -12,6 +12,7 @@ Welcome to the **AI Influencer Agency** repository. This is a comprehensive, ste
 - [04-MONETIZATION-AND-AGENCY-BLUEPRINT.md](./04-MONETIZATION-AND-AGENCY-BLUEPRINT.md) — Revenue streams, retainer packages, pricing.
 - [05-CLIENT-OUTREACH-SCRIPTS.md](./05-CLIENT-OUTREACH-SCRIPTS.md) — Proven Cold DM, Email templates for Fashion & E-commerce brands.
 - [06-RESOURCES-AND-COMMUNITIES.md](./06-RESOURCES-AND-COMMUNITIES.md) — Discord communities, YouTube masterclass summary, tools links.
+- [07-MR-HOW-VIRAL-WORKFLOW-AND-PROMPTS.md](./07-MR-HOW-VIRAL-WORKFLOW-AND-PROMPTS.md) — Mr How (@IMrHow) viral AI influencer master prompts & workflow.
 
 ---
 
